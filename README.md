@@ -45,17 +45,17 @@ Pause. Slowly take a deep breath. In through the nose, hold it for five seconds,
 
 * You must write a different method to solve each challenge. 
 
-* Your methods will be called challengeOne, challengeTwo, challengeThree, and challengeFour. 
+* Your methods will be called **challengeOne**, **challengeTwo**, **challengeThree**, and **challengeFour**. 
 
-* You must call the method readFile inside each of the methods that you write. Note that in one or two of the four challenges you may need to create a slightly different readFile method. If you need to do so, do not delete the original readFile method. Call the new method readFileTwo. So, in each of the four methods you need to call either readFile or readFileTwo.
+* You must call the method **readFile** inside each of the methods that you write. **NOTE** that in one or two of the four challenges you may need to create a slightly different readFile method. If you need to do so, do not delete the original readFile method. Call the new method **readFileTwo**. So, in each of the four methods you need to call either **readFile** or **readFileTwo**.
 
 * Each method that you write must return a value (the answer to the specific challenge).
 
 * Test your methods inside the main method.
 
-* When testing your methods, store the returned value from the method call into a variable. Name your variable challengeOneAnswer, challengeTwoAnswer, …
+* When testing your methods, store the returned value from the method call into a variable. Name your variable **challengeOneAnswer**, **challengeTwoAnswer**, …
 
-* Use these variables in a call to writeFileAllAnswers (pass them as arguments) to write all of your solutions to a file called AdventureTime.txt. This call to writeFileAllAnswers must also be inside the main method.
+* Use these variables in a call to **writeFileAllAnswers** (pass them as arguments) to write all of your solutions to a file called **AdventureTime.txt**. This call to **writeFileAllAnswers** must also be inside the **main** method.
 
 * Include all four methods as well as the main method in a single class called **AdventureTime**.
 
